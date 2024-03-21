@@ -1,6 +1,6 @@
 ### Github Activity 
 
-Just a little script to create false activity on Github profile by genererating multiple commit at differents rates on a private repo. 
+Just a little script to create false activity on Github profile by genererating multiple commits at differents rates on a private repo. 
 <br>
 Is it useless ? Yes without a doubt. 
 <br>
